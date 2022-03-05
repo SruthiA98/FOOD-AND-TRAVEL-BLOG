@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Blog of food tourism</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,600,600i,700,700i|Satisfy|Comic+Neue:300,300i,400,400i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-center fixed-top topbar-transparent">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-center justify-content-lg-start">
+      <i class="bi bi-phone d-flex align-items-center"><span>+91 7356342837</span></i>
+      <i class="bi bi-clock ms-4 d-none d-lg-flex align-items-center"><span>sruthichotu123@gmail.com</span></i>
+    </div>
+  </section>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center header-transparent">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+      <div class="logo me-auto">
+        <h1><a href="index.html">Tourism</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      </div>
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#menu">Experienece</a></li>
+          <li><a class="nav-link scrollto" href="#specials">Places</a></li>
+          <li><a class="nav-link scrollto" href="#events">Food</a></li>
+          <li><a class="nav-link scrollto" href="#gallery">Memories</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+        <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <!-- Slide 1 -->
+          <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg);">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown"><span>Food</span>Tourism</h2>
+                <p class="animate__animated animate__fadeInUp">Food tourism is much more than a list of restaurants or only high-cost activities with refined gourmet perception. It is also not focused only on agritourism. Nor does it require distant travels. It is related to all activities that use food as a means of connection between people, places, and time.
+Food tourism is composed of activities that provide experiences of consumption and appreciation of food and beverages, presented in such a way that values the history, the culture, and the environment of a particular region.
+FOOD’N ROAD</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 2 -->
+          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Travel</h2>
+                <p class="animate__animated animate__fadeInUp">Travel is  fatal to prejudice, bigotry, and narrow mindedness, and many of our people need it sorely on these accounts.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 3 -->
+          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Explore</h2>
+                <p class="animate__animated animate__fadeInUp">Exploring different cuisines has always been associated with moments of leisure and travel, but the concept of food tourism has recently evolved to encompass activities beyond the plate. These are tourist and entertainment activities that place culinary traditions as a pillar of regional identity and cultural heritage and value the relationship between food and society.
+And this change is great, as it creates the possibility for people to approach food at different levels of the value chain and learn from those who produce it. In this way, it is possible to expand economic development to different layers of society and offer more personal and authentic experiences to the traveler.
+
+</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+        </a>
+
+        <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+        </a>
+
+      </div>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container-fluid">
+
+        <div class="row">
+
+          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("assets/img/about.jpg");'>
+			<a href="https://www.instagram.com/p/CaY397ylcNXm_uBb9Ft5ED6aZB-0mKkRD-u7-k0/"class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+          </div>
+
+          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch">
+
+            <div class="content">
+              <h3><strong>Flow with the Passion</strong></h3>
+              <p>
+                Each travel make us realise what is Us and the experienecing the different culture of food ,through each travel we exploring the culutre,art and the best part is e will intreact and spend time with different types of people who have various kind of characterand culutre 
+              </p>
+              <p class="fst-italic">
+               The impulse to start my blog, The time which i realise me what is me, what's my passion,this was through my travelling and i want to make my travel memories as page, Through my page the followers can use its as a guide ,To Eat,Travel,Explore
+              </p>
+              <p>
+                Each food have varitey of taste, spicy,overwhelmed by sweet like so each places having different kind mood 
+				Happy,Sad,Clubed together mood .There are group trip and solo trip both have different feel
+              </p>
+            </div>
+
+          </div>
+
+      </div>
+    </section><!-- End About Section -->
+    <!-- ======= Menu Section ======= -->
+    <section id="menu" class="menu">
+      <div class="container">
+
+        <div class="section-title">
+          <h2><span>Explore each moment</span></h2>
+		  <p>
+Food Travel means moving around with the aim of exploring a destination gastronomic offer. Exploring the pleasures of the table has always been associated with moments of leisure, but on a gastronomic trip, the culinary experience is no longer just a complement but the main motivation in choosing a destination and in the way of exploring it.On a trip, we want to have different experiences from our daily lives. These experiences become remarkable when you feel connected with them. That’s exactly how food plays its role.
+The bond with food is a universal language, after all, no matter where you came from, food is certainly part of your history. That is why every travel memory always comes with a flavour.
+</p>
+      </div>
+      </div>
+    </section><!-- End Menu Section -->
+    <!-- ======= Specials Section ======= -->
+    <section id="specials" class="specials">
+      <div class="container">
+
+        <div class="section-title">
+          <h2><span>The Places which is so closed to my heart</span></h2>
+          <p>Wherever you go,go with your heart</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3">
+            <ul class="nav nav-tabs flex-column">
+              <li class="nav-item">
+                <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Gokarana</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Goa</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Varakala</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Paris</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Wayanad</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-9 mt-4 mt-lg-0">
+            <div class="tab-content">
+              <div class="tab-pane active show" id="tab-1">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>One of the seven important pilgrimage village </h3>
+                    <p class="fst-italic">In once gokarana was an unspoiled beach near the estuary of river Aghanashini</p>
+                    <p>Literally meaning cow's ear, the quaint town of Gokarna in Karnataka is formed by the ear-shaped confluence of two rivers and the favorite destination for Hindu pilgrims, Sanskrit scholars, and beach buffs.
+					Om Beach, one of Gokarna's five famed beaches, takes the shape of the 'Om', a Hindu spiritual symbol.The other beaches, wedged between gigantic cliffs that protrude like delicate fingers into the sea, are Gokarna, Kudle, Half Moon, and Paradise. 
+					The path that leads to Gokarna is a scenic delight with rocky mountains and the Western Ghats on one side, and the Arabian Sea on the other.
+					Adventurous tourists must be prepared for a bit of cliff-scrambling in this coastal town</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/specials-1.jpg" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-2">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Its famous for beaches and places of worship</h3>
+                    <p class="fst-italic">Goa is also a treasure trove of architecture, unique because of the region’s rich history</p>
+                    <p>The pocket-sized paradise of Goa is a traveller's dream. Sun, sea, sand, spices, spirituality and seafood, along with a balmy weather, call to the soul of trekkers, backpackers, nature lovers and those who simply want to languish in its slow-paced and relaxed vibes.
+					Located by the glistening waters of the Arabian Sea on India’s western coast, the state of Goa is renowned for its breathtaking beaches, rich culture and pristine natural beauty. Formerly a Portuguese colony, 
+					Goa offers travellers a chance to experience a unique blend of sandy shores, forests, monuments and delectable cuisine, attracting tourists across age groups.</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/specials-2.jpg" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-3">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Varkala it also known as Papanasham Beach</h3>
+                    <p class="fst-italic">Its mini goa which is situated at the capital city of kerala</p>
+                    <p>Varkala Beach is a sublime landscape with natural spring water. It is a beautiful stretch of sand renowned for its solitude. At the backdrop of crystal blue waters is the unique cliffs with sedimentary formation peaks.
+					Sunsets at the Varkala Beach are pristine and excellent for a peaceful walk or a game of football along the beach.</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/specials-3.jpg" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-4">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Paris,the city of Lights,the fashion capital,the city of Love</h3>
+                    <p class="fst-italic">The city lures with its magnificent art, architecture, culture, and cuisine, but there’s also a quieter magic waiting to be explored</p>
+                    <p>Paris is one of the most beautiful cities in the world. It is known worldwide for the Louvre Museum, Notre-Dame cathedral, and the Eiffel tower.It has a reputation of being a romantic and cultural city.
+					The city is also known for its high-quality gastronomy and the terraces of its cafés.</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/specials-4.jpg" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-5">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Often called the spice garden of India</h3>
+                    <p class="fst-italic">Wayanad wildlife sanctuary houses a huge variety of flora and fauna.</p>
+                    <p>Wayanad is the greenery in the city, it is understood that it will have numerous wildlife sanctuaries, reserves and national parks protecting the rural life of the forests.
+					Adding to all the natural beauty you have India’s largest earth dam and Asia’s second-largest earth dam, Banasura Sagar Dam in Wayanad. Having mighty mountains, dense woods, and gushing rivers, Wayanad is a hub for trekking, hiking, mountaineering, rock climbing,rappelling,camping,and many more adventurous activities</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/specials-5.jpg" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Specials Section -->
+
+    <!-- ======= Events Section ======= -->
+    <section id="events" class="events">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>The Flavours<span>Of Nourishment</span></h2>
+        </div>
+
+        <div class="events-slider swiper">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="row event-item">
+                <div class="col-lg-6">
+                  <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                  <h3>Salads</h3>
+                  <p class="fst-italic">
+                    A salad is a dish consisting of mixed, mostly natural ingredients with at least one raw ingredient. They are often dressed, and typically served at room temperature or chilled, though some can be served warm.
+                  </p>
+                  <p>
+                    Garden salads use a base of leafy greens such as lettuce, arugula/rocket, kale or spinach; they are common enough that the word salad alone often refers specifically to garden salads.
+					Other types include bean salad,tuna salad, fattoush,Greek salad (vegetable-based, but without leafy greens),Israeli salad and sōmen salad (a noodle-based salad).
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="row event-item">
+                <div class="col-lg-6">
+                  <img src="assets/img/event-private.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                  <h3>Kappa & Beef</h3>
+                  <p class="fst-italic">
+                  Kappa with beef (Tapioca With Beef) Kerala Style is a delicious dish very tempting and irresistible with a lip smacking gravy.Kappa Erachi is an excellent combo of cooked tapioca and beef curry.				  
+                 </p>
+                  <p>
+                   The dish is unique and special with beef pieces marinated and cooked in a spicy aromatic mixture and mixed with cooked tapioca pieces.
+                   Beef is nutritious, rich in protein and other vital nutrients. Tapioca is rich in carbohydrates and low in protein and other nutrients.   
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="row event-item">
+                <div class="col-lg-6">
+                  <img src="assets/img/event-custom.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                  <h3>Full House Pizza</h3>
+                  <p class="fst-italic">
+                   This pizza has a full house of toppings, grilled portobello mushrooms, chorizo sausage, duck breast, roasted garlic, tomatoes and seasonings
+                  </p>
+                  <p>
+                    It's a dish of Italian origin consisting of a usually round,flat base of leavened wheat-based dough topped with tomatoes,cheese, nd often various other ingredients(such as anchovies, mushrooms, onions, olives, pineapple, meat, etc.), which is then baked at a high temperature, traditionally in a wood-fired oven.A small pizza is sometimes called a pizzetta.
+					A person who makes pizza is known as a pizzaiolo.
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Events Section -->
+
+ 
+
+    <!-- ======= Gallery Section ======= -->
+    <section id="gallery" class="gallery">
+      <div class="container-fluid">
+
+        <div class="section-title">
+          <h2><span>Memories of mine </span></h2>
+          <p>The photos mine exploring the taste,culture and the colour side of our world</p>
+        </div>
+
+        <div class="row g-0">
+
+          <div class="col-lg-3 col-md-4">
+            <div class="gallery-item">
+              <a href="assets/img/gallery/gallery-1.jpg" class="gallery-lightbox">
+                <img src="assets/img/gallery/gallery-1.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="gallery-item">
+              <a href="assets/img/gallery/gallery-2.jpg" class="gallery-lightbox">
+                <img src="assets/img/gallery/gallery-2.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="gallery-item">
+              <a href="assets/img/gallery/gallery-3.jpg" class="gallery-lightbox">
+                <img src="assets/img/gallery/gallery-3.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="gallery-item">
+              <a href="assets/img/gallery/gallery-4.jpg" class="gallery-lightbox">
+                <img src="assets/img/gallery/gallery-4.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="gallery-item">
+              <a href="assets/img/gallery/gallery-5.jpg" class="gallery-lightbox">
+                <img src="assets/img/gallery/gallery-5.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="gallery-item">
+              <a href="assets/img/gallery/gallery-6.jpg" class="gallery-lightbox">
+                <img src="assets/img/gallery/gallery-6.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="gallery-item">
+              <a href="assets/img/gallery/gallery-7.jpg" class="gallery-lightbox">
+                <img src="assets/img/gallery/gallery-7.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="gallery-item">
+              <a href="assets/img/gallery/gallery-8.jpg" class="gallery-lightbox">
+                <img src="assets/img/gallery/gallery-8.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Gallery Section -->
+
+
+   
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <h3>Travel,Eat,Explore</h3>
+      <p>Its all about showing the different colours of our world</p>
+      <div class="social-links">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+      <div class="copyright">
+        &copy; Copyright <strong><span>Food Tourism</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
